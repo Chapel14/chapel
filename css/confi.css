@@ -1,0 +1,13 @@
+video{
+	width: 50%;
+	margin:auto;
+	display: block;
+	padding-top: 20px;
+	border-radius: 15px;
+}
+iframe{
+	border-radius: 15px;
+}
+text{
+	font-family: 'calibri';
+}
